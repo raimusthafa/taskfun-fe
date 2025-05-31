@@ -40,7 +40,7 @@ export function Sidebar({ currentPage, setCurrentPage, isOpen, onClose }: Sideba
         } md:translate-x-0`}
       >
         <div className="p-4 border-b border-gray-200 flex justify-between items-center">
-          <h1 className="text-xl font-bold text-blue-600">TaskManager</h1>
+          <h1 className="text-xl font-bold text-blue-600">TaskFun</h1>
           <button
             onClick={onClose}
             className="md:hidden text-gray-600 hover:text-gray-800"

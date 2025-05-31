@@ -31,6 +31,18 @@
 ### ℹ️ About
 - Informasi tentang aplikasi
 
+## 🖼️ Screenshot
+
+### Dashboard
+![Dashboard](public/ss/dashboard.jpg)
+
+### Task View
+![Task View](public/ss/task.jpg)
+
+### Task View
+![History Task](public/ss/riwayat.png)
+
+
 ## 🛠️ Cara Menjalankan
 
 ```bash
