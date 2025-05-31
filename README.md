@@ -37,9 +37,9 @@
 ![Dashboard](public/ss/dashboard.jpg)
 
 ### Task View
-![Task View](public/ss/task.jpg)
+![Task View](public/ss/tugas.jpg)
 
-### Task View
+### History View
 ![History Task](public/ss/riwayat.png)
 
 
