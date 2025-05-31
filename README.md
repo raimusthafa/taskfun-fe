@@ -31,8 +31,6 @@
 ### ℹ️ About
 - Informasi tentang aplikasi
 
----
-
 ## 🛠️ Cara Menjalankan
 
 ```bash
